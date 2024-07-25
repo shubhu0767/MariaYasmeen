@@ -1,19 +1,14 @@
 import { Link } from "react-router-dom";
 import Header from "../Components/Header";
+import React from 'react';
+
 const Projects = () => {
     return (
         <>
  <Header />
    <div className="scrollable-content "> 
-                    <Link to="/typingtest">Typeathon <span>/ Commission 2024 </span></Link> 
-                    <Link to="">CrypTrack<span>/ Commission 2024</span></Link>
-                    <Link to="">Home dashboard <span>/ Commission 2024</span></Link>  
-                    <Link to="">History book <span>/ Commission 2024</span></Link>  
-                    <Link to="">shop bazar <span>/ Commission 2024</span></Link>  
-                    <Link to="">PIANo boyi <span>/ Commission 2024</span></Link>  
-                    <Link to="">you know it <span>/ Commission 2024</span></Link>  
-                    <Link to="">NEWSChannel <span>/ Commission 2024</span></Link>  
-                    <Link to="">PLAin tracker <span>/ UI Project</span></Link>  
+                    <Link to="/typingtest">Forent end <span>/ Commission 2024 </span></Link> 
+                    <Link to="">Projects front end<span>/ Projects goes here 2024</span></Link>
                
      </div>
     
